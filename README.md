@@ -1,7 +1,7 @@
 # Laravel Guest Upgrade (Guest-to-User Migration Helper)
 
 ## Features
-- Works with Laravel 10, 11 & 12
+- Works with Laravel 10, 11, 12, & 13
 - Assigns a unique guest identifier
 - Seamlessly migrates guest-owned models to a real user on registration/login
 - Simple API, no deep integration needed
